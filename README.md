@@ -1,2 +1,2 @@
 # ifacet_upload
-Repositório para upload de livras de ifacet
+Repositório para upload de livros de ifacet
